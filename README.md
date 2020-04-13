@@ -12,7 +12,7 @@ We mainly focus how data compression works in adversarial defense. Dziugaite et 
 
 The image compression method has its intrinsic problem that if the compression rate is big the classification accuracy rate may decrease, while a small compression rate may not remove enough noisy disturbance. So we intuitively think that we can add residual block in the encoding stage so we may reserve both raw input’s high-level information and reasonable low compression rate. What’s more, Resnet can help smooth the gradients in the training progress. which may be useful to eliminate adversarial noise added by hand.
 
-<image width='500px' src='https://raw.githubusercontent.com/ZhangYuef/Storage/Image/img/20200412233623.png>
+<image width='500px' src='https://raw.githubusercontent.com/ZhangYuef/Storage/Image/img/20200412233623.png'>
 
 ## Train
 - 3 epoches, 7500 iterations in total
