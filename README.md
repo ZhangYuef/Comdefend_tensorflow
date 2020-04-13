@@ -25,7 +25,7 @@ The image compression method has its intrinsic problem that if the compression r
 <image width='500px' src='https://raw.githubusercontent.com/ZhangYuef/Storage/Image/img/20200412233827.png'>
 <image width='500px' src='https://raw.githubusercontent.com/ZhangYuef/Storage/Image/img/20200412233937.png'>
 
-Chart explanation:
+### Chart explanation
 <image width='500px' src='https://raw.githubusercontent.com/ZhangYuef/Storage/Image/img/20200412234339.png'>
 
 
